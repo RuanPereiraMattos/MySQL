@@ -1,0 +1,1 @@
+# MySQL Project just created to show how to connect to MySQL localhost and on the network
