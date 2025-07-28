@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MySQL-javadoc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MySQL_javadoc_jar</output-path>
+    <root id="archive" name="MySQL-javadoc_jar.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/javadoc" />
+    </root>
+  </artifact>
+</component>
